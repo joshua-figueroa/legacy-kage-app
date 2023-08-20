@@ -28,7 +28,7 @@ Welcome to the Kage App! This app allows users to watch and search for anime epi
 
 ### Backend Setup
 
-1. Clone this repository: `git clone [repository URL]`
+1. Clone this repository: `git clone https://github.com/joshua-figueroa/legacy-kage-app`
 2. Navigate to the backend directory: `cd server`
 3. Install dependencies: `yarn install`
 4. Start the backend server: `yarn start`
