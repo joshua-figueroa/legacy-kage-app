@@ -18,6 +18,12 @@ Welcome to the Kage App! This app allows users to watch and search for anime epi
 - Express: Web application framework for Node.js.
 - [legacy-gogo-scraper]: The scraper library used to fetch anime information and episode URLs.
 
+## Screenshots
+
+![New Released](/screenshots/new-release.png)
+![Search](/screenshots/search.png)
+![Anime Info](/screenshots/anime.png)
+
 ## Installation
 
 ### Backend Setup
