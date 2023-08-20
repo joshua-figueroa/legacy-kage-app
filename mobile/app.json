@@ -1,0 +1,45 @@
+{
+    "expo": {
+        "name": "Kage",
+        "slug": "kage",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "description": "Watch and download anime for free.",
+        "backgroundColor": "#121212",
+        "primaryColor": "#bb86fc",
+        "icon": "./app/assets/images/icon.png",
+        "notification": {
+            "iosDisplayInForeground": true,
+            "icon": "./app/assets/images/icon.png",
+            "color": "#272727"
+        },
+        "splash": {
+            "image": "./app/assets/images/splash.png",
+            "resizeMode": "cover",
+            "backgroundColor": "#272727"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": ["**/*"],
+        "userInterfaceStyle": "dark",
+        "ios": {
+            "supportsTablet": true,
+            "bundleIdentifier": "com.joshuafigueroa.kage",
+            "buildNumber": "1.0.0",
+            "requireFullScreen": true,
+            "userInterfaceStyle": "dark",
+            "icon": "./app/assets/images/icon.png"
+        },
+        "android": {
+            "useNextNotificationsApi": true,
+            "package": "com.joshuafigueroa.kage",
+            "versionCode": 1,
+            "softwareKeyboardLayoutMode": "pan",
+            "userInterfaceStyle": "dark"
+        },
+        "web": {
+            "favicon": "./app/assets/images/icon.png"
+        }
+    }
+}
